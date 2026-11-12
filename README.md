@@ -223,33 +223,23 @@ print(daksh.get_ambition())
 <p>I am always looking forward to collaborating on impactful AI/ML projects, hackathons, and open-source software.</p>
 
 <p align="center">
-  <!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn profile handle -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/daksh-kaushik-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <!-- Your Email (Preconfigured to your git address) -->
   <a href="mailto:dakshkaushik1209@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <!-- Replace YOUR_TWITTER_HANDLE with your X/Twitter handle -->
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="https://x.com/Dakshkaushik121" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
   &nbsp;
-  <!-- Replace YOUR_PORTFOLIO_URL with your personal portfolio website -->
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <!-- Replace YOUR_KAGGLE_USERNAME with your Kaggle username -->
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/dakshkaushik12" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   &nbsp;
-  <!-- Replace YOUR_LEETCODE_USERNAME with your LeetCode username -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/u/dakshgeek/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
